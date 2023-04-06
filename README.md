@@ -5,13 +5,13 @@
 This is a code-refactoring project for the Horiseon webpage that follows accessibility standards and is optimized for search engines.
 
 ## Tasks completed
--Added a descriptive title
--Replaced HTML elements with semantic elements
--Added alt attributes to images
--Changed heading attributes in sequential order
--Reorganized CSS to folloow the structure of the HTML
--Fixed class/id attributes in HTML to be more logical
--Consolidated CSS selectors and properties
+- Added a descriptive title
+- Replaced HTML elements with semantic elements
+- Added alt attributes to images
+- Changed heading attributes in sequential order
+- Reorganized CSS to folloow the structure of the HTML
+- Fixed class/id attributes in HTML to be more logical
+- Consolidated CSS selectors and properties
 
 ## Credits
 Base code developed and provided by Columbia Coding Bootcamp
