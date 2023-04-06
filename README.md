@@ -21,4 +21,4 @@ Base code developed and provided by Columbia Coding Bootcamp
 ![The Horiseon webpage](./assets/images/screencapture.png)
 
 ## Deployed
-Page published at https://github.com/Mtan1230/horiseon-code-refactor
+Page published at https://mtan1230.github.io/horiseon-code-refactor/
