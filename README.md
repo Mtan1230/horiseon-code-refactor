@@ -9,7 +9,7 @@ This is a code-refactoring project for the Horiseon webpage that follows accessi
 - Replaced HTML elements with semantic elements
 - Added alt attributes to images
 - Changed heading attributes in sequential order
-- Reorganized CSS to folloow the structure of the HTML
+- Reorganized CSS to follow the structure of the HTML
 - Fixed class/id attributes in HTML to be more logical
 - Consolidated CSS selectors and properties
 
